@@ -15,3 +15,5 @@ a bypass using this would be:
 (!!!) warning: the bypass described above will most likely get you detected unless you somehow hide your module after its being loaded
 this post is NOT meant to be a complete "bypass". its just information for learners to use for their own research.
 its a way for researchers to analyze beservice from within without having to worry about beservice.exe being protected by bedaisy.
+
+
